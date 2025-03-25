@@ -1,0 +1,28 @@
+{
+  "search_placeholder": "Buscar clínicas",
+  "book_appointment": "Reservar cita en la clínica",
+  "video_consultation": "Consulta de video instantánea",
+  "find_doctor_heading": "Encuentra un médico para tu problema de salud",
+  "general_physician": "Médico general",
+  "skin_hair": "Piel y cabello",
+  "womens_health": "Salud femenina",
+  "dental_care": "Cuidado dental",
+  "child_specialist": "Especialista en niños",
+  "ent": "Oído, Nariz, Garganta",
+  "mental_wellness": "Bienestar mental",
+  "more": "Más",
+  "featured_services": "Servicios destacados",
+  "affordable_procedures": "Procedimientos asequibles por médicos expertos",
+  "see_nearby_hospitals": "Ver hospitales cercanos",
+
+  "profile_heading": "Perfil",
+  "settings": "Configuraciones",
+  "preferences": "Preferencias",
+  "change_language": "Cambiar idioma",
+  "notifications": "Notificaciones",
+  "log_out": "Cerrar sesión",
+  "account_details": "Detalles de la cuenta",
+  "edit_profile": "Editar perfil",
+  "privacy_policy": "Política de privacidad",
+  "help_support": "Ayuda y soporte"
+}

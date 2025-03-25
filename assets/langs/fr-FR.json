@@ -1,0 +1,28 @@
+{
+  "search_placeholder": "Rechercher des cliniques",
+  "book_appointment": "Prendre un rendez-vous en clinique",
+  "video_consultation": "Consultation vidéo instantanée",
+  "find_doctor_heading": "Trouvez un médecin pour votre problème de santé",
+  "general_physician": "Médecin généraliste",
+  "skin_hair": "Peau et cheveux",
+  "womens_health": "Santé des femmes",
+  "dental_care": "Soins dentaires",
+  "child_specialist": "Pédiatre",
+  "ent": "Oreille, Nez, Gorge",
+  "mental_wellness": "Bien-être mental",
+  "more": "Plus",
+  "featured_services": "Services en vedette",
+  "affordable_procedures": "Procédures abordables par des médecins experts",
+  "see_nearby_hospitals": "Voir les hôpitaux à proximité",
+
+  "profile_heading": "Profil",
+  "settings": "Paramètres",
+  "preferences": "Préférences",
+  "change_language": "Changer de langue",
+  "notifications": "Notifications",
+  "log_out": "Se déconnecter",
+  "account_details": "Détails du compte",
+  "edit_profile": "Modifier le profil",
+  "privacy_policy": "Politique de confidentialité",
+  "help_support": "Aide et support"
+}

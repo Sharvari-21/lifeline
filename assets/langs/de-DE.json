@@ -1,0 +1,28 @@
+{
+  "search_placeholder": "Kliniken suchen",
+  "book_appointment": "Termin in der Klinik buchen",
+  "video_consultation": "Sofortige Video-Beratung",
+  "find_doctor_heading": "Finden Sie einen Arzt für Ihr Gesundheitsproblem",
+  "general_physician": "Allgemeinmediziner",
+  "skin_hair": "Haut & Haare",
+  "womens_health": "Frauenheilkunde",
+  "dental_care": "Zahnmedizin",
+  "child_specialist": "Kinderarzt",
+  "ent": "Ohr, Nase, Hals",
+  "mental_wellness": "Mentale Gesundheit",
+  "more": "Mehr",
+  "featured_services": "Besondere Dienstleistungen",
+  "affordable_procedures": "Erschwingliche Verfahren von Experten",
+  "see_nearby_hospitals": "Nahegelegene Krankenhäuser anzeigen",
+
+  "profile_heading": "Profil",
+  "settings": "Einstellungen",
+  "preferences": "Präferenzen",
+  "change_language": "Sprache ändern",
+  "notifications": "Benachrichtigungen",
+  "log_out": "Abmelden",
+  "account_details": "Kontodetails",
+  "edit_profile": "Profil bearbeiten",
+  "privacy_policy": "Datenschutzbestimmungen",
+  "help_support": "Hilfe & Support"
+}

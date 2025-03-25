@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "804976081616",
+    "project_id": "sharvari-60be7",
+    "storage_bucket": "sharvari-60be7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804976081616:android:b6621cee16ffa2af373cd5",
+        "android_client_info": {
+          "package_name": "com.example.sharvari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804976081616-qteig052b6l0umpdud174f2l7u5t7sk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjb1veZSX2FuehAOaHeTlxU_rDcx33ylg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804976081616-qteig052b6l0umpdud174f2l7u5t7sk0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804976081616-tl2f865edm9lk63hu3tqnu52tn6c506q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sharvari"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

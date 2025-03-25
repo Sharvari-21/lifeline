@@ -1,0 +1,28 @@
+{
+  "search_placeholder": "क्लिनिक खोजें",
+  "book_appointment": "इन-क्लिनिक अपॉइंटमेंट बुक करें",
+  "video_consultation": "तुरंत वीडियो परामर्श",
+  "find_doctor_heading": "अपने स्वास्थ्य समस्या के लिए डॉक्टर खोजें",
+  "general_physician": "सामान्य चिकित्सक",
+  "skin_hair": "त्वचा और बाल",
+  "womens_health": "महिला स्वास्थ्य",
+  "dental_care": "दंत चिकित्सा",
+  "child_specialist": "बाल रोग विशेषज्ञ",
+  "ent": "कान, नाक, गला",
+  "mental_wellness": "मानसिक स्वास्थ्य",
+  "more": "अधिक",
+  "featured_services": "विशेष सेवाएं",
+  "affordable_procedures": "विशेषज्ञ डॉक्टरों द्वारा किफायती प्रक्रियाएं",
+  "see_nearby_hospitals": "नज़दीकी अस्पताल देखें",
+
+  "profile_heading": "प्रोफ़ाइल",
+  "settings": "सेटिंग्स",
+  "preferences": "प्राथमिकताएँ",
+  "change_language": "भाषा बदलें",
+  "notifications": "सूचनाएं",
+  "log_out": "लॉग आउट",
+  "account_details": "खाता विवरण",
+  "edit_profile": "प्रोफ़ाइल संपादित करें",
+  "privacy_policy": "गोपनीयता नीति",
+  "help_support": "सहायता एवं समर्थन"
+}
