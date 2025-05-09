@@ -1,6 +1,3 @@
-Here's a professional and informative `README.md` for your **Lifeline** project:
-
----
 
 # 🏥 Lifeline
 
